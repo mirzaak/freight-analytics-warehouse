@@ -1,0 +1,121 @@
+customer_code,company_name,tier,recency_days,frequency,monetary_eur,margin_eur,median_gap_days,rfm,segment,churn_alert
+C0118,Zenit Pharma 118,C,103.3,132,134108.47,27187.13,2.1,2-2-2,Core,t
+C0106,Zenit Foods 106,C,20.8,176,144791.95,26555.52,2.1,2-2-3,High value at risk,t
+C0096,Adria Timber 96,B,17.8,147,135154.54,24796.84,2.0,2-2-2,Core,t
+C0073,Bosna Textiles 73,A,88.6,191,152826.27,15036.22,1.3,2-3-3,High value at risk,t
+C0086,Drina Metals 86,B,39.2,141,95556.03,12337.50,1.2,2-2-2,Core,t
+C0065,Morava Metals 65,C,114.3,87,58272.57,10624.00,1.6,2-1-1,Core,t
+C0001,Bosna Foods 1,C,364.8,4231,3473233.15,635787.38,0.1,1-5-5,Lost,f
+C0002,Drina Metals 2,B,0.4,2915,2261850.27,327519.99,0.2,5-5-5,Champion,f
+C0005,Morava Timber 5,C,0.1,1559,1277165.03,240461.64,0.3,5-5-5,Champion,f
+C0004,Lipa Components 4,A,0.9,1870,1563640.82,229652.10,0.3,4-5-5,Champion,f
+C0008,Tara Foods 8,B,0.1,1304,1129799.68,210031.59,0.4,5-5-5,Champion,f
+C0007,Pannon Trading 7,C,1.7,1253,1050652.78,194179.47,0.4,4-5-5,Champion,f
+C0014,Drina Trading 14,C,0.3,827,721726.79,133321.18,0.6,5-5-5,Champion,f
+C0019,Pannon Timber 19,C,0.3,724,640577.34,120935.11,0.7,5-5-5,Champion,f
+C0003,Kvarner Textiles 3,C,474.4,777,656418.13,116919.86,0.2,1-5-5,Lost,f
+C0012,Adria Timber 12,A,0.1,948,771749.01,115691.65,0.6,5-5-5,Champion,f
+C0006,Orion Pharma 6,A,0.4,1421,1120779.35,113496.64,0.3,5-5-5,Champion,f
+C0015,Kvarner Foods 15,B,0.2,844,744220.03,113260.32,0.6,5-5-5,Champion,f
+C0011,Sana Components 11,B,0.3,950,795964.11,108789.63,0.6,5-5-5,Champion,f
+C0022,Zenit Foods 22,C,0.0,625,569488.72,106791.88,0.8,5-5-5,Champion,f
+C0016,Lipa Metals 16,B,0.4,775,567350.26,105123.21,0.7,5-5-5,Champion,f
+C0027,Kvarner Pharma 27,C,2.9,608,558121.78,96740.33,0.9,3-5-5,Core,f
+C0031,Pannon Textiles 31,C,0.1,569,486303.63,92989.19,0.9,5-5-5,Champion,f
+C0040,Lipa Timber 40,B,0.3,486,454112.14,88618.34,1.1,5-4-5,Champion,f
+C0018,Orion Components 18,B,0.6,774,605440.50,87300.61,0.7,4-5-5,Champion,f
+C0032,Tara Components 32,B,2.6,481,432821.52,80152.26,1.0,3-4-4,Core,f
+C0034,Zenit Pharma 34,C,3.5,569,442070.90,77440.86,0.9,3-5-5,Core,f
+C0020,Tara Pharma 20,A,1.5,691,501109.73,74796.53,0.7,4-5-5,Champion,f
+C0055,Pannon Pharma 55,C,5.1,388,359344.17,71541.92,1.1,2-4-4,High value at risk,f
+C0035,Sana Trading 35,C,0.8,465,388162.53,71195.44,1.1,4-4-4,Champion,f
+C0010,Zenit Textiles 10,A,2.1,1016,740453.68,69027.66,0.5,3-5-5,Core,f
+C0042,Orion Trading 42,C,1.0,418,364610.44,65608.44,1.0,4-4-4,Champion,f
+C0009,Vardar Metals 9,B,430.3,492,445967.27,65426.11,0.4,1-4-5,Lost,f
+C0037,Bosna Metals 37,B,1.3,497,408980.36,62498.10,1.0,4-5-4,Champion,f
+C0025,Bosna Components 25,C,320.6,335,308998.97,60064.48,0.8,1-4-4,Lost,f
+C0048,Adria Pharma 48,B,2.0,363,294569.51,56071.14,1.2,3-4-4,Core,f
+C0024,Adria Textiles 24,B,317.2,314,265352.03,54096.42,0.9,1-4-4,Lost,f
+C0041,Morava Pharma 41,C,1.3,309,277910.87,53826.88,1.1,4-4-4,Champion,f
+C0036,Adria Foods 36,A,0.6,456,375009.30,53394.44,1.2,4-4-4,Champion,f
+C0052,Lipa Textiles 52,B,0.8,271,248999.67,48460.74,1.2,4-4-4,Champion,f
+C0062,Drina Pharma 62,C,5.8,321,266909.54,47697.82,1.4,2-4-4,High value at risk,f
+C0070,Zenit Trading 70,C,5.0,309,232005.72,44192.04,1.5,2-4-4,High value at risk,f
+C0026,Drina Timber 26,A,0.0,599,457289.23,42776.76,0.8,5-5-5,Champion,f
+C0078,Orion Foods 78,C,5.3,282,231204.24,42122.58,1.4,2-4-4,High value at risk,f
+C0105,Vardar Trading 105,C,4.9,256,213043.67,40974.49,1.8,3-3-4,Core,f
+C0013,Bosna Pharma 13,C,478.0,274,217644.85,39999.82,0.6,1-4-4,Lost,f
+C0082,Zenit Timber 82,C,1.6,282,213491.81,39882.62,1.5,4-4-4,Champion,f
+C0046,Zenit Components 46,B,0.3,317,279610.29,39259.98,1.2,5-4-4,Champion,f
+C0029,Morava Foods 29,A,0.1,540,396316.03,38931.06,0.9,5-5-4,Champion,f
+C0088,Lipa Components 88,B,5.4,239,201926.94,38059.31,1.6,2-3-3,High value at risk,f
+C0083,Sana Pharma 83,C,12.1,183,200556.50,36424.05,1.7,2-3-3,High value at risk,f
+C0112,Lipa Trading 112,B,1.7,224,197118.76,36305.39,2.0,4-3-3,Core,f
+C0028,Lipa Trading 28,B,417.3,239,204252.48,36225.59,1.0,1-3-3,Lost,f
+C0049,Bosna Trading 49,C,5.9,209,170993.50,33852.92,1.2,2-3-3,High value at risk,f
+C0099,Kvarner Foods 99,C,0.8,167,177964.80,33806.19,2.1,4-2-3,New or occasional,f
+C0092,Tara Foods 92,B,0.4,201,179925.81,33303.82,1.9,5-3-3,Core,f
+C0103,Pannon Timber 103,C,3.3,199,170629.08,32688.54,2.1,3-3-3,Core,f
+C0058,Zenit Metals 58,C,2.5,221,177452.26,32573.29,1.2,3-3-3,Core,f
+C0033,Vardar Timber 33,C,422.8,237,192507.06,32077.91,0.8,1-3-3,Lost,f
+C0047,Sana Timber 47,C,5.7,222,165110.17,30475.41,1.3,2-3-3,High value at risk,f
+C0114,Orion Metals 114,B,9.9,215,195899.53,29828.77,1.8,2-3-3,High value at risk,f
+C0117,Vardar Timber 117,C,12.0,197,154304.97,29825.15,2.1,2-3-3,High value at risk,f
+C0080,Tara Textiles 80,A,1.3,262,194636.22,29328.29,1.4,4-4-3,Core,f
+C0044,Tara Metals 44,B,4.9,336,289170.90,27722.80,1.2,3-4-4,Core,f
+C0021,Vardar Trading 21,B,430.8,251,188125.78,27149.10,0.8,1-3-3,Lost,f
+C0039,Kvarner Components 39,C,484.8,157,134496.41,27077.41,1.2,1-2-2,Lost,f
+C0060,Adria Components 60,B,0.1,196,139130.24,26551.91,1.6,5-3-2,Core,f
+C0043,Pannon Foods 43,B,0.6,238,195183.17,26519.97,1.3,4-3-3,Core,f
+C0063,Kvarner Trading 63,C,6.9,177,140403.39,26092.82,1.6,2-3-3,High value at risk,f
+C0068,Tara Timber 68,B,2.9,192,134203.53,25726.60,1.4,3-3-2,Core,f
+C0071,Sana Foods 71,B,0.6,236,167463.65,25438.42,1.4,4-3-3,Core,f
+C0064,Lipa Foods 64,B,3.5,155,135243.71,25193.77,1.6,3-2-2,Core,f
+C0079,Pannon Metals 79,B,12.5,240,185878.30,25158.23,1.4,2-3-3,High value at risk,f
+C0023,Sana Metals 23,C,526.8,165,135320.52,24445.50,1.0,1-2-2,Lost,f
+C0061,Bosna Timber 61,C,7.4,158,142414.67,23609.32,1.6,2-2-3,High value at risk,f
+C0098,Drina Trading 98,C,9.1,161,120162.66,23460.50,2.0,2-2-2,Core,f
+C0057,Vardar Foods 57,A,1.0,316,281176.56,22755.44,1.3,4-4-4,Champion,f
+C0104,Tara Pharma 104,B,4.1,134,121653.01,21749.15,1.6,3-2-2,Core,f
+C0067,Pannon Components 67,C,2.4,170,116843.97,21567.81,1.2,3-2-2,Core,f
+C0054,Orion Timber 54,A,4.0,321,240958.17,21258.99,1.2,3-4-4,Core,f
+C0077,Morava Trading 77,C,2.4,132,101536.18,19724.56,2.0,3-2-2,Core,f
+C0091,Pannon Trading 91,C,3.0,166,110095.95,19653.77,1.8,3-2-2,Core,f
+C0120,Adria Foods 120,B,1.9,119,103045.34,19491.68,1.9,3-2-2,Core,f
+C0107,Sana Metals 107,B,8.3,194,150187.14,19340.07,2.2,2-3-3,High value at risk,f
+C0045,Vardar Textiles 45,B,411.4,155,131676.78,18793.72,1.3,1-2-2,Lost,f
+C0087,Kvarner Textiles 87,A,2.2,287,211430.36,18271.41,1.6,3-4-4,Core,f
+C0017,Morava Textiles 17,A,485.6,265,213621.49,17488.32,0.6,1-4-4,Lost,f
+C0119,Sana Trading 119,C,1.8,109,91979.12,17049.94,2.0,4-2-2,New or occasional,f
+C0053,Morava Components 53,C,0.7,111,93071.99,16700.99,1.2,4-2-2,New or occasional,f
+C0038,Drina Textiles 38,B,547.8,154,121152.95,16676.18,0.8,1-2-2,Lost,f
+C0030,Orion Metals 30,C,514.1,149,91688.48,16352.67,1.0,1-2-2,Lost,f
+C0084,Adria Trading 84,A,1.2,183,122721.32,16160.19,1.8,4-3-2,Core,f
+C0081,Vardar Components 81,C,204.5,123,87697.02,15905.91,1.2,1-2-2,Lost,f
+C0085,Bosna Foods 85,C,0.3,96,81060.49,15373.19,1.6,5-1-1,New or occasional,f
+C0075,Kvarner Timber 75,C,403.5,84,82252.43,15243.40,1.3,1-1-2,Lost,f
+C0113,Morava Foods 113,A,2.8,211,156617.58,14551.33,2.0,3-3-3,Core,f
+C0066,Orion Textiles 66,B,0.3,116,82524.78,12108.21,1.6,5-2-2,New or occasional,f
+C0051,Kvarner Metals 51,B,0.6,82,72490.08,11038.97,1.1,5-1-1,New or occasional,f
+C0050,Drina Foods 50,B,408.6,136,87928.96,11002.13,1.1,1-2-2,Lost,f
+C0101,Morava Textiles 101,C,1.1,77,60089.17,10581.28,1.6,4-1-1,New or occasional,f
+C0097,Bosna Pharma 97,C,0.7,101,66336.01,9899.21,1.3,4-1-1,New or occasional,f
+C0108,Adria Textiles 108,A,7.2,106,74626.30,9560.70,1.5,2-2-1,Core,f
+C0093,Vardar Metals 93,B,0.5,77,64356.98,9379.78,1.9,5-1-1,New or occasional,f
+C0089,Morava Timber 89,C,0.1,51,43544.63,8826.77,2.0,5-1-1,New or occasional,f
+C0090,Orion Pharma 90,B,2.0,41,48069.76,8208.93,1.5,3-1-1,Core,f
+C0110,Drina Timber 110,C,2.8,64,42801.86,7805.77,1.8,3-1-1,Core,f
+C0059,Sana Textiles 59,C,507.4,45,39755.01,7342.23,1.4,1-1-1,Lost,f
+C0094,Zenit Textiles 94,C,5.9,30,34666.46,7099.57,3.0,2-1-1,Core,f
+C0115,Pannon Textiles 115,C,0.1,45,33777.96,6644.44,1.9,5-1-1,New or occasional,f
+C0072,Adria Metals 72,B,326.3,92,64507.27,6565.97,1.3,1-1-1,Lost,f
+C0074,Drina Components 74,A,238.3,46,56030.76,6227.50,1.3,1-1-1,Lost,f
+C0109,Bosna Components 109,B,6.1,41,43264.59,6153.62,2.1,2-1-1,Core,f
+C0076,Lipa Pharma 76,B,3.0,57,33374.17,5909.86,1.4,3-1-1,Core,f
+C0095,Sana Components 95,B,1.9,54,38565.74,4698.68,1.1,4-1-1,New or occasional,f
+C0069,Vardar Pharma 69,A,0.7,69,56956.74,4697.21,1.0,4-1-1,New or occasional,f
+C0056,Tara Trading 56,A,416.6,65,35649.24,4459.24,1.2,1-1-1,Lost,f
+C0111,Kvarner Pharma 111,B,540.1,49,26786.14,3747.08,2.1,1-1-1,Lost,f
+C0116,Tara Components 116,B,2.6,58,34504.18,3389.22,2.0,3-1-1,Core,f
+C0100,Lipa Metals 100,B,251.1,70,40881.47,3342.32,2.2,1-1-1,Lost,f
+C0102,Orion Components 102,B,3.3,42,17240.47,2576.22,1.5,3-1-1,Core,f
